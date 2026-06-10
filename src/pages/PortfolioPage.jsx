@@ -1,4 +1,4 @@
-import portfolio from "../data/portfolio";
+import portfolio from "../data/Portfolio";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
