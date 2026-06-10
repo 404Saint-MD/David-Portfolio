@@ -1,7 +1,7 @@
 import About from "../components/About"
 import Footer from "../components/Footer";
 import MyExperience from "../components/MyExperience"
-import portfolio from "../data/portfolio";
+import portfolio from "../data/Portfolio";
 function AboutPage(){
     return(
 <>
