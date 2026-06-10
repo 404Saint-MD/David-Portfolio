@@ -1,4 +1,4 @@
-import portfolio from "../data/portfolio";
+import portfolio from "../data/Portfolio";
 import MyExperience from "../components/MyExperience";
 import { FiArrowUpRight } from "react-icons/fi";
 import { Link } from "react-router-dom";
